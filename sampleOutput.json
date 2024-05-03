@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Huawei starts sales of new Pura 70 smartphone amid scrutiny on chips - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/technology/chinas-huawei-start-selling-pura-70-smartphones-2024-04-18/",
+    "urlToImage": null,
+    "publishedAt": "2024-04-18T05:15:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Lauren Fox, Haley Talbot, Melanie Zanona, Michelle Shen",
+    "title": "Johnson moving forward with Ukraine aid bill despite pressure from hardliners - CNN",
+    "description": "Speaker Mike Johnson announced Wednesday he is sticking with his plan to put a series of foreign aid bills on the floor including funding for Ukraine after facing significant pressure from hardliners.",
+    "url": "https://www.cnn.com/2024/04/17/politics/mike-johnson-ukraine-aid/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/e2406ad3-0f4a-4d2f-be76-bc512d6cfdd5.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-18T04:36:00Z",
+    "content": "Speaker Mike Johnson announced Wednesday he is sticking with his plan to put a series of foreign aid bills on the floor, including funding for Ukraine, after facing significant pressure from hardline… [+9828 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Dinah Voyles Pulver, Jeremy Yurow",
+    "title": "Maui fire response hindered by lack of planning, fire department says - USA TODAY",
+    "description": "Maui Fire Department's post-blaze report admits to several shortcomings in response to Lahaina's deadliest wildfire, the worst in modern U.S. history.",
+    "url": "https://www.usatoday.com/story/news/nation/2024/04/17/maui-fire-department-report-reveals-lack-of-preparedness/73345212007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/18/USAT/73366390007-usatsi-21239275.jpg?crop=3068,1727,x0,y306&width=3068&height=1727&format=pjpg&auto=webp",
+    "publishedAt": "2024-04-18T03:42:36Z",
+    "content": "Challenges to communication and evacuation, unprecedented weather conditions and the lack of a \"heightened sense\" of emergency about fire warnings from the National Weather Service are just a few of … [+9056 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Alex Heath",
+    "title": "Google fires 28 employees after sit-in protest over Israel cloud contract - The Verge",
+    "description": "Some Google employees held a sit-in protest against the company’s Project Nimbus cloud contract with Israel, and now the company says it’s fired 28 people involved.",
+    "url": "https://www.theverge.com/2024/4/17/24133700/google-fires-28-employees-protest-israel-cloud-contract",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
+    "publishedAt": "2024-04-18T03:03:22Z",
+    "content": "Google fires 28 employees after sit-in protest over Israel cloud contract\r\nGoogle fires 28 employees after sit-in protest over Israel cloud contract\r\n / In an internal memo, Google warns that if your… [+3745 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Taylor Romine",
+    "title": "Cellphone tower expert will testify Bryan Kohberger’s mobile device was outside of Moscow night of the Idaho murders, defense says - CNN",
+    "description": "Bryan Kohberger, who is accused of killing four University of Idaho students November 2022, was out driving west of Moscow, Idaho the night of the murders, his attorney says, and plans to offer a cellphone tower and radio frequency expert to partially corrobo…",
+    "url": "https://www.cnn.com/2024/04/17/us/bryan-kohberger-idaho-killings-suspect-alibi/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1663790066.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-18T02:33:00Z",
+    "content": "Bryan Kohberger, who is accused of killing four University of Idaho students in November 2022, was out driving west of Moscow, Idaho, the night of the slayings, his attorney says, and the defense pla… [+2277 chars]"
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Tim Bontemps",
+    "title": "Sixers outduel Heat down stretch to clinch No. 7 seed in East - ESPN",
+    "description": "After a sloppy first half that put them in a double-digit hole, the Sixers rallied to beat the Heat and secure the No. 7 seed in the Eastern Conference playoffs.",
+    "url": "https://www.espn.com/nba/story/_/id/39965732/sixers-outduel-heat-stretch-clinch-no-7-seed-east",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0418%2Fr1320461_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-04-18T02:04:00Z",
+    "content": "PHILADELPHIA -- Joel Embiid and the Philadelphia 76ers have dealt with their fair share of postseason disappointments. And for much of Wednesday night's Eastern Conference play-in tournament game aga… [+5157 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Rolling Stone"
+    },
+    "author": "Tomás Mier",
+    "title": "Quentin Tarantino Scraps 'The Movie Critic' - Rolling Stone",
+    "description": "Quentin Tarantino will no longer be working on 'The Movie Critic,' which was scheduled to be his 10th and final film.",
+    "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/quentin-tarantino-scraps-movie-critic-film-1235006413/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/04/GettyImages-1497263362.jpeg?w=1600&h=900&crop=1",
+    "publishedAt": "2024-04-18T01:21:16Z",
+    "content": "Quentin Tarantino will no longer be making The Movie Critic, the film he previously said would be his last as a director.\r\nVariety confirmed Wednesday that the director had passed on the project, whi… [+1520 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Managing Madrid"
+    },
+    "author": "Matt_MM",
+    "title": "Player Ratings: Manchester City 1 - 1 Real Madrid (3-4 Pens); 2024 UEFA Champions League Quarterfinal - Managing Madrid",
+    "description": "Madrid hold on and win on penalties to secure their 12th passage to the semi-finals in 14 years.",
+    "url": "https://www.managingmadrid.com/2024/4/18/24132931/player-ratings-manchester-city-1-1-real-madrid-3-4-pens-2024-uefa-champions-league-quarterfinal",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/yLUw_1jXpo3Em1vkwc9tOCcCskQ=/0x0:5624x2945/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25405748/2149036177.jpg",
+    "publishedAt": "2024-04-18T01:11:35Z",
+    "content": "Full match player ratings below:\r\nAndriy Lunin10: The Ukrainian has proven that he is Real Madrid quality. When the big moments arrived, Lunin stepped up to the plate. In particular, his composure an… [+3415 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "SETH BORENSTEIN, BRITTANY PETERSON",
+    "title": "Here's why experts don't think cloud seeding played a role in Dubai's downpour - The Associated Press",
+    "description": "With cloud seeding, it may rain, but it doesn’t really pour or flood — at least nothing like what drenched the United Arab Emirates and paralyzed Dubai. Meteorologists say cloud seeding, although decades old, is still controversial in the weather community, m…",
+    "url": "https://apnews.com/article/dubai-united-arab-emirates-oman-flooding-cloud-seeding-2f8c12854017e11ac7438579646b3758",
+    "urlToImage": "https://dims.apnews.com/dims4/default/6580662/2147483647/strip/true/crop/9504x5346+0+495/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F17%2F89%2F6b4ed5f964f5d080ddee94325636%2F3190fee2060b477baef5885b52694f75",
+    "publishedAt": "2024-04-18T00:55:00Z",
+    "content": "With cloud seeding, it may rain, but it doesnt really pour or flood at least nothing like what drenched the United Arab Emirates and paralyzed Dubai, meteorologists said.\r\nCloud seeding, although dec… [+5953 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Sydney church stabbing: Australian bishop forgives alleged attacker - BBC.com",
+    "description": "Bishop Mar Mari Emmanuel also appealed for the community to stay calm after the alleged terror attack.",
+    "url": "https://www.bbc.com/news/world-australia-68814813",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/357F/production/_133159631_bishope.jpg",
+    "publishedAt": "2024-04-18T00:42:36Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Mike Johnson could be among shortest-tenured House speakers if ousted - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2024/04/17/house-speaker-mike-johnson-short-tenure",
+    "urlToImage": null,
+    "publishedAt": "2024-04-18T00:39:58Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "US man, 81, charged with murdering Uber driver after both targeted in scam - BBC.com",
+    "description": "Police say Loletha Hall, 61, was killed by William Brock, 81, who believed she was part of a ransom plot.",
+    "url": "https://www.bbc.com/news/world-us-canada-68838017",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/140C5/production/_133171128_screenshot-2024-04-16-at-6-54-42-pm.png",
+    "publishedAt": "2024-04-18T00:27:56Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "Fossil discovery by 11-year-old is the largest known marine reptile, study says - CNN",
+    "description": "Fossil collectors contributed to finding the jawbone of a giant ichthyosaur new to science that’s likely the largest known marine reptile to swim Earth’s seas.",
+    "url": "https://www.cnn.com/2024/04/17/world/giant-ichthyosaur-fossil-species-discovery-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-gabriel-ugueto.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-18T00:27:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA massive jawbone found by a father-daughter fossil-co… [+7622 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Ben Golliver",
+    "title": "LeBron James, Stephen Curry, Kevin Durant headline USA Basketball Olympic roster - The Washington Post",
+    "description": "LeBron James, Stephen Curry and Kevin Durant are among the NBA superstars who will represent the United States at the Olympics this summer.",
+    "url": "https://www.washingtonpost.com/sports/2024/04/17/dream-team-roster-paris-olympics/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UCKUICFRJJCTPP3RANNVYVBDSE_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-04-18T00:07:26Z",
+    "content": "USA Basketballs latest Dream Team is loaded with star power, experience and a renewed emphasis on size and defense.\r\nWith this summers Paris Olympics fast approaching, USA Basketball Managing Directo… [+4833 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Kaia Hubbard",
+    "title": "Senate rejects Mayorkas impeachment charges at trial, ending GOP bid to oust him - CBS News",
+    "description": "The Senate's 51-member Democratic majority voted to dismiss both charges as unconstitutional over the objections of Republican members.",
+    "url": "https://www.cbsnews.com/news/mayorkas-impeachment-trial-senate-democrats-homeland-security/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/17/0fa3fa19-1f6b-4e26-8bd4-aeca01437362/thumbnail/1200x630/0bc5d0ae90b9631e78ce15cff95e3098/20240417-senate-floor-1pm-frame-55252.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871",
+    "publishedAt": "2024-04-17T23:47:46Z",
+    "content": "Washington — The Senate quickly dispensed with the two impeachment charges against Department of Homeland Security Secretary Alejandro Mayorkas, convening a short-lived trial Wednesday that brought a… [+3959 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Ryan Glasspiegel",
+    "title": "Elements of ESPN's Bill Belichick story 'clear bulls--t': Pat McAfee contributor - New York Post ",
+    "description": "Connor Campbell took issue with the elements of the ESPN report live on ESPN’s own airwaves.",
+    "url": "https://nypost.com/2024/04/17/sports/elements-of-espns-bill-belichick-story-clear-bulls-t-pat-mcafee-contributor/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-12d2e4utl-1713392163482.jpg?quality=75&strip=all&1713377968&w=1024",
+    "publishedAt": "2024-04-17T23:28:00Z",
+    "content": "A “Pat McAfee Show” contributor expressed doubt about ESPN’s most recent bombshell Bill Belichick story on ESPN’s own airwaves. \r\nConnor Campbell, who goes by the nickname “Boston Connor” in a nod to… [+3690 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": null,
+    "title": "A24’s New AI-Generated ‘Civil War’ Ads Generate Controversy - Hollywood Reporter",
+    "description": null,
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/a24-civil-war-posters-controversy-1235876340/",
+    "urlToImage": null,
+    "publishedAt": "2024-04-17T23:21:14Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Mackenzie Hawkins, Jennifer Jacobs",
+    "title": "Micron Poised to Get Over $6 Billion in Chips Grants in Announcement Next Week - Bloomberg",
+    "description": "Micron Technology Inc., the largest US maker of computer-memory chips, is poised to get $6.1 billion in grants from the Commerce Department to help pay for domestic factory projects, part of an effort to bring semiconductor production back to American soil.",
+    "url": "https://www.bloomberg.com/news/articles/2024-04-17/micron-mu-to-get-over-6-billion-in-chips-act-grants-in-announcement-next-week",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ.Fs1WnxYAE/v1/1200x799.jpg",
+    "publishedAt": "2024-04-17T23:16:40Z",
+    "content": "Micron Technology Inc., the largest US maker of computer-memory chips, is poised to get $6.1 billion in grants from the Commerce Department to help pay for domestic factory projects, part of an effor… [+437 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Spaceflight Now"
+    },
+    "author": null,
+    "title": "SpaceX launches Falcon 9 rocket on Starlink mission from Kennedy Space Center – Spaceflight Now - Spaceflight Now",
+    "description": null,
+    "url": "https://spaceflightnow.com/2024/04/17/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-kennedy-space-center/",
+    "urlToImage": null,
+    "publishedAt": "2024-04-17T23:14:37Z",
+    "content": "A SpaceX Falcon 9 rocket lifts off from the pad at Launch Complex 39A as captured in this streak shot on April 17, 2024. Image: Adam Bernstein/Spaceflight Now\r\nSpaceX completed its latest Falcon 9 la… [+1833 chars]"
+    }
+    ]
+    }
